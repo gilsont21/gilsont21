@@ -1,4 +1,4 @@
-## Hello, welcome to the jungle 👋
+## 👋
 
 - 🔭 Atualmente estou trabalhando VisIA, projeto pessoa que busca melhorar o aprendizado de pessoas com deficiência
 - 🌱 Estou estudando machine learning e redes neurais
