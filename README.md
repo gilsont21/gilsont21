@@ -1,4 +1,4 @@
-## Olá, eu sou o Gilson! também conhecido como Limão👋
+## Seja bem vindo!
 
 - 🔭 Atualmente estou trabalhando VisIA, projeto pessoa que busca melhorar o aprendizado de pessoas com deficiência
 - 🌱 Estou estudando machine learning e redes neurais
